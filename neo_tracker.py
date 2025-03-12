@@ -5,7 +5,7 @@ from tkinter import ttk, messagebox
 from PIL import Image, ImageTk
 import random
 
-API_KEY = "aNdYe6hh6AeloI4ujtfgINdBZUDAc8fPB6wk33CL"
+API_KEY = "YOUR NASA API KEY"
 
 
 def fetch_neo_data(start_date, end_date):
